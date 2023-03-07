@@ -1,4 +1,4 @@
-Program dist_tp1;
+Program distance;
 Uses WinCrt;
 Var
  Xa,Xb,Ya,Yb: Integer;
