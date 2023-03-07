@@ -1,9 +1,9 @@
-Program sqr;
+Program sqr_loop;
 Uses Wincrt;
 Var
   n,k,s: Integer;
 Begin
-  Write('Donner la valuer de n= ') ;
+  Write('Enter value of n= ') ;
   Read(n);
   s := 0 ;
   For k:=0 To n-1 Do
