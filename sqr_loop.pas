@@ -1,4 +1,4 @@
-Program sqr;
+Program sqr_loop;
 Uses Wincrt;
 Var
   n,k,s: Integer;
